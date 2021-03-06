@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Aiga115.github.io/fms/static/css/main.aa632819.chunk.css",
+    "main.js": "/Aiga115.github.io/fms/static/js/main.60918fb6.chunk.js",
+    "main.js.map": "/Aiga115.github.io/fms/static/js/main.60918fb6.chunk.js.map",
+    "runtime-main.js": "/Aiga115.github.io/fms/static/js/runtime-main.8982981d.js",
+    "runtime-main.js.map": "/Aiga115.github.io/fms/static/js/runtime-main.8982981d.js.map",
+    "static/js/2.f3a62b24.chunk.js": "/Aiga115.github.io/fms/static/js/2.f3a62b24.chunk.js",
+    "static/js/2.f3a62b24.chunk.js.map": "/Aiga115.github.io/fms/static/js/2.f3a62b24.chunk.js.map",
+    "index.html": "/Aiga115.github.io/fms/index.html",
+    "static/css/main.aa632819.chunk.css.map": "/Aiga115.github.io/fms/static/css/main.aa632819.chunk.css.map",
+    "static/js/2.f3a62b24.chunk.js.LICENSE.txt": "/Aiga115.github.io/fms/static/js/2.f3a62b24.chunk.js.LICENSE.txt",
+    "static/media/Icon.658e7f77.svg": "/Aiga115.github.io/fms/static/media/Icon.658e7f77.svg",
+    "static/media/analytics.6bc400ba.svg": "/Aiga115.github.io/fms/static/media/analytics.6bc400ba.svg",
+    "static/media/main-page.css": "/Aiga115.github.io/fms/static/media/avatar.9441cbac.png",
+    "static/media/black-button.695bc8b7.svg": "/Aiga115.github.io/fms/static/media/black-button.695bc8b7.svg",
+    "static/media/consumption.a39c1b52.svg": "/Aiga115.github.io/fms/static/media/consumption.a39c1b52.svg",
+    "static/media/dots.d8971efc.svg": "/Aiga115.github.io/fms/static/media/dots.d8971efc.svg",
+    "static/media/down.f2388254.svg": "/Aiga115.github.io/fms/static/media/down.f2388254.svg",
+    "static/media/exit.8f7749d4.svg": "/Aiga115.github.io/fms/static/media/exit.8f7749d4.svg",
+    "static/media/export.b6c4040f.svg": "/Aiga115.github.io/fms/static/media/export.b6c4040f.svg",
+    "static/media/gain.421ef177.svg": "/Aiga115.github.io/fms/static/media/gain.421ef177.svg",
+    "static/media/green-button.bf84e898.svg": "/Aiga115.github.io/fms/static/media/green-button.bf84e898.svg",
+    "static/media/main.465f0970.svg": "/Aiga115.github.io/fms/static/media/main.465f0970.svg",
+    "static/media/red-button.2d38117f.svg": "/Aiga115.github.io/fms/static/media/red-button.2d38117f.svg",
+    "static/media/settings.6bc400ba.svg": "/Aiga115.github.io/fms/static/media/settings.6bc400ba.svg",
+    "static/media/transfer.69aba96c.svg": "/Aiga115.github.io/fms/static/media/transfer.69aba96c.svg",
+    "static/media/up.58480812.svg": "/Aiga115.github.io/fms/static/media/up.58480812.svg",
+    "static/media/users.72569a77.svg": "/Aiga115.github.io/fms/static/media/users.72569a77.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8982981d.js",
+    "static/js/2.f3a62b24.chunk.js",
+    "static/css/main.aa632819.chunk.css",
+    "static/js/main.60918fb6.chunk.js"
+  ]
+}
